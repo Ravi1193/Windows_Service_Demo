@@ -1,0 +1,16 @@
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\bin\Debug\Install.dll
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\bin\Debug\Install.pdb
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\bin\Debug\Install.pkgdef
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\bin\Debug\Install.vsix
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\bin\Debug\extension.vsixmanifest
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\obj\Debug\Install.csproj.AssemblyReference.cache
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\obj\Debug\_EmptyResource.resources
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\obj\Debug\Install.csproj.GenerateResource.cache
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\obj\Debug\Install.csproj.CoreCompileInputs.cache
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\obj\Debug\Install.dll
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\obj\Debug\Install.pdb
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\obj\Debug\Install.pkgdef
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\obj\Debug\Install.latest.pkgdef
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\obj\Debug\extension.vsixmanifest
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\obj\Debug\files.json
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Install\obj\Debug\createTemplateManifests.cache

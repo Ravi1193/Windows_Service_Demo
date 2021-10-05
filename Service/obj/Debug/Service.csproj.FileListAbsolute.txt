@@ -1,0 +1,13 @@
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Service\bin\Debug\Service.exe.config
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Service\bin\Debug\Service.exe.manifest
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Service\bin\Debug\Service.application
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Service\bin\Debug\Service.exe
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Service\bin\Debug\Service.pdb
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Service\obj\Debug\Service.exe.manifest
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Service\obj\Debug\Service.application
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Service\obj\Debug\Service.exe
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Service\obj\Debug\Service.pdb
+C:\Users\Surjit Ailsinhgnai\source\repos\Service\Service\obj\Debug\Service.csproj.AssemblyReference.cache
